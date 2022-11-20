@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background : url("assets/background_phone.png");
+}
+nav{
+  justify-content: center;
+}
+#nav-items{
+    display: none;
+    font-size: 1rem;
+}
+#main-name{
+    font-size: 1.5rem;
+    /* margin-right: 10px; */
+}
+.container{
+    flex-direction: column;
+    align-items: center;
+}
+#profile-pic{
+    height: 200px;
+    width: 200px;
+}
+#main-name2{
+    padding: 10px;
+    width: 370px;
+}
+#n1{
+    font-size: 20px;
+}
+#n2{
+    font-size: 40px;
+}
+#projects{
+    flex-direction: column;
+    align-items: center;
+}
+.project-card{
+    margin-bottom: 50px;
+    width: 75vw;
+    
+}
+.project-card img{
+    width: 75vw;
+}
+#socials{
+    display: none;
+}
+#socials2{
+    display: flex;
+    justify-content: space-evenly;
+}
+#socials2 a{
+    text-decoration: none;
+    border: 1px solid rgb(9 103 167);
+    padding: 4px;
+    /* box-shadow: 0 0 .2rem #fff,
+        0 0 .2rem #fff,
+        0 0 2rem rgb(9 103 167),
+        0 0 0.8rem rgb(9 103 167),
+        0 0 2.8rem rgb(9 103 167),
+        inset 0 0 1.3rem rgb(9 103 167); */
+        border : 5px solid white;
+    cursor: pointer;
+
+}
+.project-card p{
+    padding-top: 10px ;
+    padding-bottom: 100px ;
+    line-height: 25px;
+}

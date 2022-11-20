@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- font links -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Montserrat+Alternates:ital,wght@1,100&family=Press+Start+2P&family=Raleway+Dots&display=swap" rel="stylesheet">
+    <!-- font link ends  -->
+   
+    <!-- fav icon -->
+    <link rel="icon" type="image/x-icon" href="Portfolio assets/AceFavIcon.png">
+    <!-- css links -->
+
+    <link rel="stylesheet" media="screen and (max-width: 9000px)" href="veryLargeScreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 1490px)" href="largeScreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 1100px)" href="medLargeScreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 1000px)" href="mediumScreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 500px)" href="smallScreen.css">
+
+    <!-- css link ends  -->
+
+    <!-- icon links -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- icon links ends  -->
+
+    <title>Lakshay Pruthi</title>
+    <style>
+        #skills {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+
+        }
+
+        .skillIcons img {
+            color: white;
+            width: 100px;
+            /* box-shadow: 0 0 .2rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem red,
+                0 0 0.8rem red,
+                0 0 2.8rem red,
+                inset 0 0 1.3rem red; */
+                /* border : 5px solid white; */
+        }
+
+        .skillIcons {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: white;
+            padding: 20px;
+        }
+
+        .blog-Card {
+            padding: 10px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            transition: 0.5s ease;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            color: white;
+            /* text-shadow:
+                0 0 7px rgb(9 103 167),
+                0 0 10px rgb(9 103 167),
+                0 0 21px rgb(9 103 167),
+                0 0 42px rgb(9 103 167),
+                0 0 82px rgb(9 103 167),
+                0 0 92px rgb(9 103 167),
+                0 0 102px rgb(9 103 167),
+                0 0 151px rgb(9 103 167); */
+        }
+
+        .blog-Card img {
+            width: 350px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            /* box-shadow: 0 0 .2rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem red,
+                0 0 0.8rem red,
+                0 0 2.8rem red,
+                inset 0 0 1.3rem red; */
+                border : 5px solid white;
+                z-index: 1000;
+                transition: 0.5s ease;
+                text-decoration: none;
+        }
+        .blog-Card a{
+            text-decoration: none;
+        }
+        .blog-Card h1{
+            margin-top: 10px;
+        }
+        .blog-Card img:hover{
+            transform: scale(1.1);
+        }
+
+        #blogs {
+            display: grid;
+            grid-template-columns: 360px;
+            justify-content: center;
+        }
+        footer{
+            text-shadow:
+    0 0 7px rgb(9 103 167),
+    0 0 10px rgb(9 103 167),
+    0 0 21px rgb(9 103 167),
+    0 0 42px rgb(9 103 167),
+    0 0 82px rgb(9 103 167),
+    0 0 92px rgb(9 103 167),
+    0 0 102px rgb(9 103 167),
+    0 0 151px rgb(9 103 167);
+            padding-top: 50px;
+            color: white;
+            text-align: center;
+        }
+
+        #projects p{
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav>
+        <span id="main-name">Lakshay Pruthi</span>
+        <div id="socials">
+            <a href="https://www.linkedin.com/in/lakshay-pruthi-8b0531214/" target="blank">
+                <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+            <a href="https://twitter.com/Lakshay____?t=PwkZjFwayIe_CWY5SQoltA&s=09" target="blank">
+                <ion-icon name="logo-twitter"></ion-icon>
+            </a>
+            <a href="https://github.com/Lakshay-Pruthi" target="blank">
+                <ion-icon name="logo-github"></ion-icon>
+            </a>
+            <a href="mailto:lakshay47pruthi16@gmail.com" target="blank">
+                <ion-icon name="mail-outline"></ion-icon>
+            </a>
+        </div>
+    </nav>
+    <div class="container">
+        <div id="profile-pic"><img src="assets/profilePic.jpg" alt=""></div>
+        <div id="main-name2">
+            <div id="n1">Who is&nbsp;<span id="n2">LAKSHAY?</span></div>
+            <p style="font-weight: bold;">Lakshay is a 2nd year Computer Science Engineering student and an upcoming Software Engineer. He is
+                passionate about technology and a dedicated self learner.He has a superpower called Creativity which he
+                uses everytime he make something.
+            </p>
+            <div>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="socials2">
+        <a href="https://www.linkedin.com/in/lakshay-pruthi-8b0531214/" target="blank">
+            <ion-icon name="logo-linkedin"></ion-icon>
+        </a>
+        <a href="https://twitter.com/Lakshay____?t=PwkZjFwayIe_CWY5SQoltA&s=09" target="blank">
+            <ion-icon name="logo-twitter"></ion-icon>
+        </a>
+        <a href="https://github.com/Lakshay-Pruthi" target="blank">
+            <ion-icon name="logo-github"></ion-icon>
+        </a>
+        <a href="mailto:lakshay47pruthi16@gmail.com" target="blank">
+            <ion-icon name="mail-outline"></ion-icon>
+        </a>
+    </div>
+    <div id="project-heading">My skills</div>
+    <div id="skills">
+        <li class="skillIcons"><img src="Portfolio assets/Html logo.png" alt="">HTML</li>
+        <li class="skillIcons"><img src="Portfolio assets/CSS logo.png" alt="">CSS</li>
+        <li class="skillIcons"><img src="Portfolio assets/Tailwind logo.png" alt="">Tailwind CSS</li>
+        <li class="skillIcons"><img src="Portfolio assets/JS Logo.png" alt="">JavaScript</li>
+        <li class="skillIcons"><img src="Portfolio assets/C language logo.png" alt="">C</li>
+        <li class="skillIcons"><img src="Portfolio assets/Java Logo.png" alt="">Java</li>
+        <li class="skillIcons"><img src="Portfolio assets/Git logo.png" alt="">Git</li>
+        <li class="skillIcons"><img src="Portfolio assets/Github Logo.png" alt="">GitHub</li>
+    </div>
+    <div id="project-heading">Projects</div>
+
+    <div id="projects">
+        <div class="project-card"><a href="https://lakshay-pruthi.github.io/The-Shoe-Store/" target="_blank"><img
+                    class="project-img" src="assets/P1.png" alt=""></a>
+            <div>
+                <h1>The Shoe Store</h1>
+                <p>Shoe store is an e-commerce website for shoes where you can buy different kind of shoes <br>Technology used : HTML, CSS, Tailwind CSS, JavaScript</p>
+            </div>
+        </div>
+        <div class="project-card"><a href="https://facebook-sign-up-clone-lakshay-pruthi.netlify.app/"
+                target="_blank"><img class="project-img" src="assets/P2.png" alt=""></a>
+            <div>
+                <h1>Facebook Sign up Page</h1>
+                <p>This is a clone of Facebook sign up page<br>This Project got featured in <span style="font-weight: bolder; color:yellow;">Codedamn</span> as a guided project <a style="font-weight: bold; color:yellow;" href="https://codedamn.com/project/facebook-signup-page-clone" target="_blank">checkout here</a><br>
+                    Technology used : HTML, CSS, Tailwind CSS</p>
+            </div>
+        </div>
+        <div class="project-card"><a href="https://amazon-clone-lakshay-pruthi.netlify.app/" target="_blank"><img
+                    class="project-img" src="assets/P3.png" alt=""></a>
+            <div>
+                <h1>Amazon Clone</h1>
+                <p>This is a clone of a famous e-commerce website known as Amazon<br>Funtionality available : frontend<br>Technology used : HTML, CSS, JavaScript</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="project-heading">Blogs</div>
+    <div id="blogs">
+        <div class="blog-Card"><a href="https://www.showwcase.com/show/18434/what-is-open-source"><img
+                    src="https://project-assets.showwcase.com/56534/1668672064572-Art1.jpg" alt=""></a>
+            <h1>What is Open source?</h1>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    
+
+    <footer>©️ Lakshay Pruthi 2022</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        setInterval(() => {
+            let logo = document.getElementById('n2');
+            if (logo.style.fontWeight == 500) {
+                logo.style.fontWeight = 300
+
+            } else {
+                logo.style.fontWeight = 500
+
+            }
+        }, 250);
+    </script>
+</body>
+
+</html>
