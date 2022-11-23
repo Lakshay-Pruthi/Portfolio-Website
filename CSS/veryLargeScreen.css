@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+::-webkit-scrollbar-thumb{
+background-color: black;
+width: 8px;
+border: 5px solid white;
+}
+
+::-webkit-scrollbar{
+    background-color: black;
+    width: 10px;
+    border: 2px solid white;
+
+}
+body {
+   padding-top: 20px;
+    background-size: cover;
+    background-color: black
+}
+
+nav {
+    background: rgba(0, 0, 0, 0.512);
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 20px;
+    align-items: center;
+}
+
+#main-name {
+    font-size: 3rem;
+    color: white;
+    font-family: 'Raleway Dots', cursive;
+    font-weight: 700;
+}
+
+#nav-items {
+    display: flex;
+    width: 40vw;
+    justify-content: space-evenly;
+    color: white;
+    font-family: 'Kalam', cursive;
+    font-size: 1.2rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+#main-name2 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 800px;
+    height: fit-content;
+
+}
+
+p {
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+#n1 {
+    font-size: 3.25rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: rgb(165, 163, 163);
+}
+
+#n2 {
+    font-size: 7.5rem;
+    font-family: 'Raleway Dots', cursive;
+    font-weight: 500;
+    color: white;
+    text-shadow:
+        0 0 7px white,
+        0 0 10px red,
+        0 0 21px red,
+        0 0 42px red,
+        0 0 82px red,
+        0 0 92px red,
+        0 0 102px red,
+        0 0 151px red;
+}
+
+.container {
+    display: flex;
+    padding: 4vw;
+    justify-content: space-around;
+    height: 80vh;
+    align-items: center;
+}
+
+#profile-pic {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+    border : 4px dotted white;
+
+}
+
+.project-card p{
+    padding-top: 20px ;
+    padding-bottom: 100px ;
+    line-height: 35px;
+}
+
+
+/* Projects */
+#project-heading {
+    font-weight: 500;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    font-family: 'Raleway Dots', cursive;
+    background-color: rgba(29, 29, 29, 0.581);
+    padding: 20px;
+    margin-bottom: 50px;
+        border-bottom: 5px dotted white;
+        border-top: 5px dotted white;
+        margin-top: 100px;
+        margin-bottom: 100px;
+}
+
+#projects {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.project-card {
+    text-align: center;
+    width: 354px;
+    height: 500px;
+    background-size: cover;
+    background-image: url("assets/product-card.jpg");
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 5px;
+    color: white;
+    overflow: hidden;
+    border : 5px solid white;
+    font-family: 'Raleway Dots', cursive;
+    transition: 0.5s ease;
+}
+
+
+.project-card div {
+    background-color: rgba(0, 0, 0, 0.471);
+}
+
+.project-card h1 {
+    padding: 10px 0px;
+}
+
+.project-img {
+    transition: 0.5s ease;
+    height: 40%;
+    width: 100%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.project-img:hover {
+    transform: scale(1.1);
+    height: 40%;
+    width: 100%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
+
+#socials{
+    width: 260px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+#socials a{
+    text-decoration: none;
+    padding: 4px;
+    cursor: pointer;
+}
+ 
+ion-icon{
+    width: 25px;
+    height: 25px;
+}
+
+
+/* Blogs */
+#skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    justify-content: center;
+
+}
+
+.skillIcons img {
+    color: white;
+    width: 100px;
+}
+
+.skillIcons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 20px;
+}
+
+.blog-Card {
+    padding: 10px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    transition: 0.5s ease;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+}
+
+.blog-Card img {
+    width: 350px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+   
+    border: 5px solid white;
+    z-index: 1000;
+    transition: 0.5s ease;
+    text-decoration: none;
+}
+
+.blog-Card a {
+    text-decoration: none;
+}
+
+.blog-Card h1 {
+    margin-top: 10px;
+}
+
+.blog-Card img:hover {
+    transform: scale(1.1);
+}
+
+#blogs {
+    display: grid;
+    grid-template-columns: 360px;
+    justify-content: center;
+}
+
+footer {
+    text-shadow:
+        0 0 7px rgb(9 103 167),
+        0 0 10px rgb(9 103 167),
+        0 0 21px rgb(9 103 167),
+        0 0 42px rgb(9 103 167),
+        0 0 82px rgb(9 103 167),
+        0 0 92px rgb(9 103 167),
+        0 0 102px rgb(9 103 167),
+        0 0 151px rgb(9 103 167);
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+#projects p {
+    font-weight: bold;
+}

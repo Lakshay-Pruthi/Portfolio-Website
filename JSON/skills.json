@@ -1,0 +1,34 @@
+{
+    "0": {
+        "imgLink": "assets/skills/Html logo.png",
+        "title": "HTML"
+    },
+    "1": {
+        "imgLink": "assets/skills/CSS logo.png",
+        "title": "CSS"
+    },
+    "2": {
+        "imgLink": "assets/skills/Tailwind logo.png",
+        "title": "Tailwind CSS"
+    },
+    "3": {
+        "imgLink": "assets/skills/JS Logo.png",
+        "title": "JavaScript"
+    },
+    "4": {
+        "imgLink": "assets/skills/C language logo.png",
+        "title": "C"
+    },
+    "5": {
+        "imgLink": "assets/skills/Java Logo.png",
+        "title": "Java"
+    },
+    "6": {
+        "imgLink": "assets/skills/Git logo.png",
+        "title": "Git"
+    },
+    "7": {
+        "imgLink": "assets/skills/Github Logo.png",
+        "title": "GitHub"
+    }
+}

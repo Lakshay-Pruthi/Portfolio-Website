@@ -1,0 +1,39 @@
+#main-name{
+    font-size: 1.5rem;
+}
+.container{
+    flex-direction: column;
+    align-items: center;
+}
+#profile-pic{
+    height: 200px;
+    width: 200px;
+}
+#main-name2{
+    padding: 10px;
+    width: 370px;
+}
+#n1{
+    font-size: 20px;
+}
+#n2{
+    font-size: 40px;
+}
+#projects{
+    flex-direction: column;
+    align-items: center;
+}
+.project-card{
+    margin-bottom: 50px;
+    width: 75vw;
+    
+}
+.project-card img{
+    width: 75vw;
+}
+
+.project-card p{
+    padding-top: 10px ;
+    padding-bottom: 100px ;
+    line-height: 25px;
+}
