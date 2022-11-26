@@ -258,7 +258,7 @@ ion-icon{
 
 #blogs {
     display: grid;
-    grid-template-columns: 360px 360px;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     justify-content: space-around;
 }
 
