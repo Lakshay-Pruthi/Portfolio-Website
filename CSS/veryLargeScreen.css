@@ -259,7 +259,7 @@ ion-icon{
 
 #blogs {
     display: grid;
-    grid-template-columns: 360px;
+    grid-template-columns: 360px 360px;
     justify-content: center;
 }
 
