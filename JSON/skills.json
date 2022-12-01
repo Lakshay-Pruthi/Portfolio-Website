@@ -1,34 +1,34 @@
 {
     "0": {
-        "imgLink": "assets/Skills/Html logo.png",
+        "imgLink": "assets/Skills/Html logo.webp",
         "title": "HTML"
     },
     "1": {
-        "imgLink": "assets/Skills/CSS logo.png",
+        "imgLink": "assets/Skills/CSS logo.webp",
         "title": "CSS"
     },
     "2": {
-        "imgLink": "assets/Skills/Tailwind logo.png",
+        "imgLink": "assets/Skills/Tailwind logo.webp",
         "title": "Tailwind CSS"
     },
     "3": {
-        "imgLink": "assets/Skills/JS Logo.png",
+        "imgLink": "assets/Skills/JS Logo.webp",
         "title": "JavaScript"
     },
     "4": {
-        "imgLink": "assets/Skills/C language logo.png",
+        "imgLink": "assets/Skills/C language logo.webp",
         "title": "C"
     },
     "5": {
-        "imgLink": "assets/Skills/Java Logo.png",
+        "imgLink": "assets/Skills/Java Logo.webp",
         "title": "Java"
     },
     "6": {
-        "imgLink": "assets/Skills/Git logo.png",
+        "imgLink": "assets/Skills/Git logo.webp",
         "title": "Git"
     },
     "7": {
-        "imgLink": "assets/Skills/Github Logo.png",
+        "imgLink": "assets/Skills/Github Logo.webp",
         "title": "GitHub"
     }
 }
