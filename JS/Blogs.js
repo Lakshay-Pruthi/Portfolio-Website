@@ -9,7 +9,7 @@ let blogsData = fetch("JSON/blogs.json")
                             <a href="${values[elem].hostedLink}">
                             <img src="${values[elem].imgLink}" alt="">
                             </a>
-                            <h1>${values[elem].title}</h1>       
+                            <h2>${values[elem].title}</h2>       
                             </div>`
     }
 })
