@@ -236,6 +236,7 @@ ion-icon{
 
 .blog-Card img {
     width: 350px;
+    height: 200px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
