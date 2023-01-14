@@ -19,6 +19,9 @@
 #n2{
     font-size: 40px;
 }
+h2{
+    font-size: 1.2em;
+}
 #projects{
     flex-direction: column;
     align-items: center;
