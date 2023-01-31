@@ -12,9 +12,15 @@
         "imgLink" : "assets/Projects/P2.webp"
     },
     "2":{
+<<<<<<< HEAD
         "title" : "Space Station",
         "description" : "A platform where you can search anything related to space and get information about it<br><br>Technology used : HTML, CSS, JavaScript",
         "hostedLink" :"https://lakshay-pruthi.github.io/Space-Station/",
+=======
+        "title" : "Facebook Sign up Page",
+        "description" : "This is a clone of Facebook sign up page<br>This Project got featured in <span style='font-weight: bolder; color:yellow;'>Codedamn</span> as a guided project. <a style='font-weight: bold; color:yellow;' href='https://codedamn.com/project/facebook-signup-page-clone' target='_blank'>check here</a><br> Technology used : HTML, CSS, Tailwind CSS",
+         "hostedLink" :"https://facebook-sign-up-clone-lakshay-pruthi.netlify.app/",
+>>>>>>> 599f516c590c6f2d5d3633e01422d6d7be7f0f82
         "imgLink" : "assets/Projects/P3.webp"
     },
     "3":{
