@@ -12,8 +12,19 @@ border: 5px solid white;
     background-color: black;
     width: 10px;
     border: 2px solid white;
-
 }
+
+.hidden{
+    opacity:0;
+    transition: all 1s;
+}
+
+.show{
+    opacity: 1;
+    
+}
+
+
 body {
    padding-top: 20px;
     background-size: cover;
@@ -116,7 +127,7 @@ p {
 
 
 /* Projects */
-#project-heading {
+.project-heading {
     font-weight: 500;
     font-size: 80px;
     color: white;
