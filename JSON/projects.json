@@ -1,13 +1,13 @@
 {
     "0" : {
        "title" : "The Shoe Store",
-       "description" : "An ecommerce website for shoes made using HTML, CSS, Tailwind CSS, and JavaScript to deliver a robust, scalable, and visually appealing platform for online shoe shopping. Our implementation of these technologies enables the site to feature dynamic interactions, optimized styling, and clean, maintainable code structure.",
+       "description" : "An ecommerce website for shoes made using HTML, CSS, Tailwind CSS, and JavaScript to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
        "hostedLink" :"https://lakshay-pruthi.github.io/The-Shoe-Store/",
        "imgLink" : "assets/Projects/P1.webp"
     },
     "1":{
         "title" : "We Commerce",
-        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js. This combination of technologies enables users to create professional-looking online stores in just minutes, with a focus on ease of use, dynamic functionality, and visually appealing design.",
+        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js. It enables users to create professional-looking online stores in just minutes, with a focus on ease of use, dynamic functionality, and visually appealing design.",
         "hostedLink" :"https://github.com/Lakshay-Pruthi/WeCommerce",
         "imgLink" : "assets/Projects/P2.webp"
     },
