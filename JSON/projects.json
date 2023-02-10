@@ -7,7 +7,7 @@
     },
     "1":{
         "title" : "We Commerce",
-        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js</span>. It enables users to create professional-looking online stores in just minutes, with a focus on ease of use, dynamic functionality, and visually appealing design.",
+        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js</span>. It enables users to create professional-looking online stores in just minutes, with dynamic functionality, and visually appealing design.",
         "hostedLink" :"https://github.com/Lakshay-Pruthi/WeCommerce",
         "imgLink" : "assets/Projects/P2.webp"
     },
