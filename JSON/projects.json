@@ -1,25 +1,25 @@
 {
     "0" : {
        "title" : "The Shoe Store",
-       "description" : "An ecommerce website for shoes made using HTML, CSS, Tailwind CSS, and JavaScript to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
+       "description" : "An ecommerce website for shoes made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, and JavaScript </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
        "hostedLink" :"https://lakshay-pruthi.github.io/The-Shoe-Store/",
        "imgLink" : "assets/Projects/P1.webp"
     },
     "1":{
         "title" : "We Commerce",
-        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js. It enables users to create professional-looking online stores in just minutes, with a focus on ease of use, dynamic functionality, and visually appealing design.",
+        "description" : "A platform which offers a streamlined solution for building ecommerce websites, utilizing <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js</span>. It enables users to create professional-looking online stores in just minutes, with a focus on ease of use, dynamic functionality, and visually appealing design.",
         "hostedLink" :"https://github.com/Lakshay-Pruthi/WeCommerce",
         "imgLink" : "assets/Projects/P2.webp"
     },
     "2":{
         "title" : "Space Station",
-        "description" : "A space-related search platform where you can search anything related to space and get information about it<br><br>Technology used : HTML, CSS, JavaScript",
+        "description" : "A space-related search platform where you can search anything related to space and get information about it<br><br>Technology used :<span style='font-weight: bolder; color:yellow;'> HTML, CSS, JavaScript</span>",
         "hostedLink" :"https://lakshay-pruthi.github.io/Space-Station/",
         "imgLink" : "assets/Projects/P3.webp"
     },
     "3":{
         "title" : "Facebook Sign up Page",
-        "description" : "This is a clone of Facebook sign up page<br>This Project got featured in <span style='font-weight: bolder; color:yellow;'>Codedamn</span> as a guided project <a style='font-weight: bold; color:yellow;' href='https://codedamn.com/project/facebook-signup-page-clone' target='_blank'>check here</a><br> Technology used : HTML, CSS, Tailwind CSS",
+        "description" : "This is a clone of Facebook sign up page<br>This Project got featured in <span style='font-weight: bolder; color:yellow;'>Codedamn</span> as a guided project <a style='font-weight: bold; color:yellow;' href='https://codedamn.com/project/facebook-signup-page-clone' target='_blank'>check here</a><br> Technology used :<span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS</span>",
          "hostedLink" :"https://facebook-sign-up-clone-lakshay-pruthi.netlify.app/",
         "imgLink" : "assets/Projects/P4.webp"
     }
