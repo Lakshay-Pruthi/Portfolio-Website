@@ -1,0 +1,14 @@
+{
+    "0" : {
+       "imgLink" : "assets/testimonials/1.webp",
+       "name" : "Rong",
+       "post" : "CEO @ShowwcaseHQ",
+       "testimonialDetails" :"A Computer Science Student and Tech Enthusiast from India. Lakshay loves to write technical blogs and has interest in web development."
+    },
+    "1" : {
+       "imgLink" : "assets/testimonials/2.webp",
+        "name" : "Eldad Fux",
+        "post" : "Founder & CEO at Appwrite",
+        "testimonialDetails" :"Software development is really hard, and we are trying to make it a lot easier and more fun. Thanks for your help."
+     }
+}
