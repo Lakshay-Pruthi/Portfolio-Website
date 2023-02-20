@@ -1,7 +1,7 @@
 {
     "0" : {
        "title" : "ProBoost",
-       "description" : "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress. The app is designed to help users stay organized, manage their time effectively, and be more productive.",
+       "description" : "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> Technology used : HTML, CSS, TailwindCSS, JavaScript, ReactJS</span>",
        "hostedLink" :"https://github.com/Lakshay-Pruthi/ProBoost",
        "imgLink" : "assets/Projects/P3.webp"
     },
