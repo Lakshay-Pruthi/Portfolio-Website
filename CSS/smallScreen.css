@@ -44,3 +44,10 @@ h2{
 #testimonials{
     flex-direction: column;
 }
+#OSCHeading{
+    font-size: 60px;
+}
+
+#TestimonialsHeading{
+    font-size: 60px;
+}

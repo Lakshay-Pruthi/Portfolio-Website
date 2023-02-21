@@ -1,7 +1,7 @@
 {
     "0" : {
        "title" : "ProBoost",
-       "description" : "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> Technology used : HTML, CSS, TailwindCSS, JavaScript, ReactJS</span>",
+       "description" : "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> Technology used : HTML, CSS, TailwindCSS, JavaScript, ReactJS, OpenAI API</span>",
        "hostedLink" :"https://github.com/Lakshay-Pruthi/ProBoost",
        "imgLink" : "assets/Projects/P3.webp"
     },
@@ -16,11 +16,5 @@
         "description" : "An ecommerce website for shoes made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, and JavaScript </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
         "hostedLink" :"https://lakshay-pruthi.github.io/The-Shoe-Store/",
         "imgLink" : "assets/Projects/P1.webp"
-     },
-    "3":{
-        "title" : "Facebook Sign up Page",
-        "description" : "This is a clone of Facebook sign up page<br>This Project got featured in <span style='font-weight: bolder; color:yellow;'>Codedamn</span> as a guided project <a style='font-weight: bold; color:yellow;' href='https://codedamn.com/project/facebook-signup-page-clone' target='_blank'>check here</a><br> Technology used :<span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS</span>",
-         "hostedLink" :"https://facebook-sign-up-clone-lakshay-pruthi.netlify.app/",
-        "imgLink" : "assets/Projects/P4.webp"
-    }
+     }
 }

@@ -30,5 +30,9 @@
     "7": {
         "imgLink": "assets/Skills/Github Logo.webp",
         "title": "GitHub"
+    },
+    "8": {
+        "imgLink": "assets/Skills/Solidity.webp",
+        "title": "Solidity"
     }
 }
