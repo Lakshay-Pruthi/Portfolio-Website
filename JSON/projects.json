@@ -18,9 +18,9 @@
         "imgLink": "./assets/Projects/P4.jpeg"
     },
     "3": {
-        "title": "The Shoe Store",
+        "title": "Buy Some",
         "description": "An ecommerce website made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, JavaScript and ReactJS </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
         "hostedLink": "https://github.com/Lakshay-Pruthi/E-commerce",
-        "imgLink": "./assets/Projects/P4.jpeg"
+        "imgLink": "./assets/Projects/P3.jpg"
     }
 }
