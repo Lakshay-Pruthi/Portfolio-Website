@@ -12,26 +12,30 @@
         "title": "Tailwind CSS"
     },
     "3": {
+        "imgLink": "assets/Skills/Figma.webp",
+        "title": "Figma"
+    },
+    "4": {
         "imgLink": "assets/Skills/JS Logo.webp",
         "title": "JavaScript"
     },
-    "4": {
-        "imgLink": "assets/Skills/C language logo.webp",
-        "title": "C"
-    },
     "5": {
+        "imgLink": "assets/Skills/React.webp",
+        "title": "ReactJS"
+    },
+    "6": {
         "imgLink": "assets/Skills/Java Logo.webp",
         "title": "Java"
     },
-    "6": {
+    "7": {
         "imgLink": "assets/Skills/Git logo.webp",
         "title": "Git"
     },
-    "7": {
+    "8": {
         "imgLink": "assets/Skills/Github Logo.webp",
         "title": "GitHub"
     },
-    "8": {
+    "9": {
         "imgLink": "assets/Skills/Solidity.webp",
         "title": "Solidity"
     }
