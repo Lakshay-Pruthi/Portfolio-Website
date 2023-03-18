@@ -20,7 +20,7 @@
     "3": {
         "title": "Buy Some",
         "description": "An ecommerce website made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, JavaScript and ReactJS </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
-        "hostedLink": "https://github.com/Lakshay-Pruthi/E-commerce",
+        "hostedLink": "https://lakshay-pruthi.github.io/BuySome/",
         "imgLink": "./assets/Projects/P3.jpg"
     }
 }
