@@ -314,7 +314,7 @@ footer {
 }
 
 .testimonial {
-    padding: 10px;
+    padding-bottom: 10px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
