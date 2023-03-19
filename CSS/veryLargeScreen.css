@@ -110,18 +110,32 @@ p {
     display: flex;
     padding: 4vw;
     justify-content: space-around;
-    height: 85vh;
+    height: 71vh;
     align-items: center;
 }
 
+.navbar {
+    padding-left: 35vw;
+}
+
+.navbar ul {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 15px;
+    width: 100vw;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    color: white;
+}
+
 #profile-pic {
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 }
 
 #profile-pic img {
     opacity: 1;
-    width: 350px;
-    height: 350px;
+    width: 370px;
+    height: 370px;
 }
 
 .project-card p {
