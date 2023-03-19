@@ -133,7 +133,7 @@ p {
 }
 
 #profile-pic img {
-    opacity: 1;
+    opacity: 0.8;
     width: 370px;
     height: 370px;
 }
