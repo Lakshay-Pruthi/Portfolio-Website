@@ -1,53 +1,68 @@
-#main-name{
+#main-name {
     font-size: 1.5rem;
 }
-.container{
+
+.container {
     flex-direction: column;
     align-items: center;
 }
-#profile-pic{
-    height: 200px;
-    width: 200px;
+
+#profile-pic {
+    padding-bottom: 20px;
+
 }
-#main-name2{
+
+#profile-pic img {
+    height: 270px;
+    width: 270px;
+}
+
+#main-name2 {
     padding: 10px;
     width: 350px;
 }
-#n1{
+
+#n1 {
     font-size: 20px;
 }
-#n2{
+
+#n2 {
     font-size: 40px;
 }
-h2{
+
+h2 {
     font-size: 1.2em;
 }
-#projects{
+
+#projects {
     flex-direction: column;
     align-items: center;
 }
-.project-card{
+
+.project-card {
     margin-bottom: 50px;
     width: 75vw;
-    
+
 }
-.project-card img{
+
+.project-card img {
     width: 75vw;
 }
 
-.project-card p{
-    padding-top: 10px ;
-    padding-bottom: 100px ;
+.project-card p {
+    padding-top: 10px;
+    padding-bottom: 100px;
     line-height: 25px;
 }
 
-#testimonials{
+#testimonials {
     flex-direction: column;
 }
-#OSCHeading{
+
+#OSCHeading {
     font-size: 60px;
 }
 
-#TestimonialsHeading{
+#TestimonialsHeading {
     font-size: 60px;
 }

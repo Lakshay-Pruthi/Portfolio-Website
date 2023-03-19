@@ -110,20 +110,18 @@ p {
     display: flex;
     padding: 4vw;
     justify-content: space-around;
-    height: 65vh;
+    height: 85vh;
     align-items: center;
 }
 
 #profile-pic {
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    opacity: 1;
-    border: 4px dotted white;
+    padding-bottom: 150px;
+}
 
+#profile-pic img {
+    opacity: 1;
+    width: 350px;
+    height: 350px;
 }
 
 .project-card p {
