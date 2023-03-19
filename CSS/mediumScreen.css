@@ -1,3 +1,7 @@
-.container{
+.container {
+    flex-direction: column;
+}
+
+.OSContributions ul {
     flex-direction: column;
 }
