@@ -1,9 +1,9 @@
 {
     "0": {
-        "title": "Buy Some",
-        "description": "An ecommerce website made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, JavaScript and ReactJS </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
-        "hostedLink": "https://lakshay-pruthi.github.io/BuySome/",
-        "imgLink": "./assets/Projects/P3.jpg"
+        "title": "The Shoe Store",
+        "description": "An ecommerce website made using <span style='font-weight: bolder; color:yellow;'> HTML, Tailwind CSS, JavaScript </span> to deliver a robust, scalable, and visually appealing platform for online shoe shopping.",
+        "hostedLink": "https://lakshay-pruthi.github.io/The-Shoe-Store/",
+        "imgLink": "./assets/Projects/P1.webp"
     },
     "1": {
         "title": "We Commerce",

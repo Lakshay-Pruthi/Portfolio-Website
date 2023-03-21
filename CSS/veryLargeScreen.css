@@ -133,14 +133,13 @@ p {
 }
 
 #profile-pic img {
-    opacity: 0.8;
+    opacity: 1;
     width: 370px;
     height: 370px;
 }
 
 .project-card p {
-    padding-top: 20px;
-    padding-bottom: 100px;
+    padding-top: 10px;
     line-height: 35px;
 }
 
