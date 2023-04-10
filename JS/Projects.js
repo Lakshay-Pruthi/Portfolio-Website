@@ -15,6 +15,9 @@ let projectData = fetch("JSON/projects.json")
                             </p>
                         </div>
                         </a>
+                        <a class='projectGithubLink' href="${values[elem].githubLink}" target="blank">
+                        <ion-icon name="logo-github"></ion-icon>
+                         </a>
                     </div>`
     }
 })
