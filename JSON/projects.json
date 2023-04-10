@@ -13,7 +13,7 @@
     },
     "2": {
         "title": "ProBoost",
-        "description": "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> OpenAI API</span>",
+        "description": "This is a web-based productivity boosting app built with <span style='font-weight: bolder; color:yellow;'> React JS </span> It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> OpenAI API</span>",
         "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree/",
         "imgLink": "./assets/Projects/P3.webp"
     }
