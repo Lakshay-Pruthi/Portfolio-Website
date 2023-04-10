@@ -6,21 +6,15 @@
         "imgLink": "./assets/Projects/P1.webp"
     },
     "1": {
-        "title": "We Commerce",
-        "description": "A platform which offers a streamlined solution for building ecommerce websites, utilizing <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Tailwind CSS, JavaScript, Node.js, and Express.js</span>. It enables users to create professional-looking online stores in just minutes.",
-        "hostedLink": "https://github.com/Lakshay-Pruthi/WeCommerce",
-        "imgLink": "./assets/Projects/P2.webp"
-    },
-    "2": {
-        "title": "Crowd Funding DAPP",
-        "description": "A crowdfunding decentralized app made using <span style='font-weight: bolder; color:yellow;'> HTML, CSS, Bootstrap, JavaScript, Web3.JS, truffle, Ganache, Goerli </span> is a platform built on blockchain technology that allows individuals and organizations to raise funds.",
+        "title": "CryptoTree DAPP",
+        "description": "A crowdfunding decentralized app made using <span style='font-weight: bolder; color:yellow;'> React JS </span> is a platform built on  <span style='font-weight: bolder; color:yellow;'>Sepolia</span> blockchain technology that helps collect funds for the plantation of trees and stoping deforestation.",
         "hostedLink": "https://github.com/Lakshay-Pruthi/Dapp-Funding",
         "imgLink": "./assets/Projects/P4.jpeg"
     },
-    "3": {
+    "2": {
         "title": "ProBoost",
-        "description": "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> Technology used : HTML, CSS, TailwindCSS, JavaScript, ReactJS, OpenAI API</span>",
-        "hostedLink": "https://github.com/Lakshay-Pruthi/ProBoost",
+        "description": "This is a web-based productivity boosting app built with ReactJS. It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> OpenAI API</span>",
+        "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree/",
         "imgLink": "./assets/Projects/P3.webp"
     }
 }
