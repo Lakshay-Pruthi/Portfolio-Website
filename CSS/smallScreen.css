@@ -7,15 +7,9 @@
     align-items: start;
 }
 
-#profile-pic {
-    padding-bottom: 20px;
-
-}
-
 #profile-pic img {
     height: 270px;
     width: 270px;
-    padding-left: 30px;
 }
 
 #main-name2 {
@@ -42,15 +36,9 @@ h2 {
 
 .project-card {
     margin-bottom: 50px;
-    width: 75vw;
-    height: fit-content;
     padding-bottom: 25px;
-
 }
 
-.project-card img {
-    width: 75vw;
-}
 
 .project-card p {
     padding-top: 10px;
