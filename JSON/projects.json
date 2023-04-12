@@ -9,14 +9,14 @@
     "1": {
         "title": "CryptoTree DAPP",
         "description": "A crowdfunding decentralized app made using <span style='font-weight: bolder; color:yellow;'> React JS </span> is a platform built on  <span style='font-weight: bolder; color:yellow;'>Sepolia</span> blockchain technology that helps collect funds for the plantation of trees and stoping deforestation.",
-        "hostedLink": "https://github.com/Lakshay-Pruthi/Dapp-Funding",
+        "hostedLink": "https://lakshay-pruthi.github.io/ProBoost/CryptoTree",
         "imgLink": "./assets/Projects/P4.jpeg",
         "githubLink" : "https://github.com/Lakshay-Pruthi/CryptoTree"
     },
     "2": {
         "title": "ProBoost",
         "description": "This is a web-based productivity boosting app built with <span style='font-weight: bolder; color:yellow;'> React JS </span> It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> OpenAI API</span>",
-        "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree/",
+        "hostedLink": "https://lakshay-pruthi.github.io/ProBoost/",
         "imgLink": "./assets/Projects/P3.webp",
         "githubLink" : "https://github.com/Lakshay-Pruthi/ProBoost"
     }
