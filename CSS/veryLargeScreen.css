@@ -191,11 +191,20 @@ p {
     border: 5px solid white;
     font-family: 'Raleway Dots', cursive;
     transition: 0.5s ease;
+    position: relative;
 }
 
 
 .project-card div {
     background-color: rgba(0, 0, 0, 0.471);
+}
+
+.liveGit {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    border-top: 1px dotted white;
+    padding-top: 10px;
 }
 
 .project-card h1 {

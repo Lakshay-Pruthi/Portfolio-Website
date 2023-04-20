@@ -14,12 +14,14 @@ let projectData = fetch("JSON/projects.json")
                             <p>${values[elem].description}</p>
                         </div>
                         </a>
+                        <div class="liveGit">
                         <a class='projectGithubLink' href="${values[elem].hostedLink}" target="blank">
                          <ion-icon name="eye"></ion-icon>
                          </a>
                         <a class='projectGithubLink' href="${values[elem].githubLink}" target="blank">
                         <ion-icon name="logo-github"></ion-icon>
                          </a>
+                         </div>
                          
                     </div>`
     }

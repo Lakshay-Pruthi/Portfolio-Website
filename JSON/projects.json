@@ -15,9 +15,16 @@
     },
     "2": {
         "title": "ProBoost",
-        "description": "This is a web-based productivity boosting app built with <span style='font-weight: bolder; color:yellow;'> React JS </span> It allows users to create and manage tasks, set deadlines, and track progress.<span style='font-weight: bolder; color:yellow;'> OpenAI API</span>",
+        "description": "This is a web-based productivity boosting app built with <span style='font-weight: bolder; color:yellow;'> React JS </span> It allows users to create and manage tasks, set deadlines, and track progress.",
         "hostedLink": "https://lakshay-pruthi.github.io/ProBoost/",
         "imgLink": "./assets/Projects/P3.webp",
         "githubLink" : "https://github.com/Lakshay-Pruthi/ProBoost"
+    },
+    "3": {
+        "title": "D-Storage DAPP",
+        "description": "IPFS based decentralized storage application made using <span style='font-weight: bolder; color:yellow;'>ReactJS</span>  that provides a secure and reliable way to store multimedia files such as images.",
+        "hostedLink": "https://github.com/Lakshay-Pruthi/D-Storage#about",
+        "imgLink": "./assets/Projects/P4.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/D-Storage"
     }
 }
