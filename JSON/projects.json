@@ -14,11 +14,11 @@
         "githubLink" : "https://github.com/Lakshay-Pruthi/CryptoTree"
     },
     "2": {
-        "title": "ProBoost",
-        "description": "This is a web-based productivity boosting app built with <span style='font-weight: bolder; color:yellow;'> React JS </span> It allows users to create and manage tasks, set deadlines, and track progress.",
-        "hostedLink": "https://lakshay-pruthi.github.io/ProBoost/",
-        "imgLink": "./assets/Projects/P3.webp",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/ProBoost"
+        "title": "Sandesha DAPP",
+        "description": "This is a blockchain based text messaging app built with <span style='font-weight: bolder; color:yellow;'> React JS, Web3JS, MetamaskAPI, Truffle </span> It allows users to send messages with complete privacy.",
+        "hostedLink": "https://lakshay-pruthi.github.io/Sandesha/",
+        "imgLink": "./assets/Projects/P5.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/Sandesha"
     },
     "3": {
         "title": "D-Storage DAPP",
