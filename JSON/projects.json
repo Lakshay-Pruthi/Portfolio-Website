@@ -7,24 +7,24 @@
         "githubLink" : "https://github.com/Lakshay-Pruthi/Furniture-Gallery"
     },
     "1": {
-        "title": "CryptoTree DAPP",
+        "title": "CryptoTree",
         "description": "A crowdfunding decentralized app made using <span style='font-weight: bolder; color:yellow;'> React JS </span> is a platform built on  <span style='font-weight: bolder; color:yellow;'>Sepolia</span> blockchain technology that helps collect funds for the plantation of trees and stoping deforestation.",
         "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree",
         "imgLink": "./assets/Projects/P4.jpeg",
         "githubLink" : "https://github.com/Lakshay-Pruthi/CryptoTree"
     },
     "2": {
-        "title": "Sandesha DAPP",
+        "title": "Sandesha",
         "description": "This is a blockchain based text messaging app built with <span style='font-weight: bolder; color:yellow;'> React JS, Web3JS, MetamaskAPI, Truffle </span> It allows users to send messages with complete privacy.",
         "hostedLink": "https://lakshay-pruthi.github.io/Sandesha/",
         "imgLink": "./assets/Projects/P5.webp",
         "githubLink" : "https://github.com/Lakshay-Pruthi/Sandesha"
     },
     "3": {
-        "title": "D-Storage DAPP",
-        "description": "IPFS based decentralized storage application made using <span style='font-weight: bolder; color:yellow;'>ReactJS</span>  that provides a secure and reliable way to store multimedia files such as images.",
-        "hostedLink": "https://github.com/Lakshay-Pruthi/D-Storage#about",
+        "title": "ArtNFT",
+        "description": "An AI based NFT generating and minting dapp made using latest Web3 technologies such as<span style='font-weight: bolder; color:yellow;'> IPFS, web3JS, truffle</span> and many more.",
+        "hostedLink": "https://lakshay-pruthi.github.io/ArtNFT_Live/",
         "imgLink": "./assets/Projects/P4.webp",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/D-Storage"
+        "githubLink" : "https://github.com/Lakshay-Pruthi/ArtNFT"
     }
 }
