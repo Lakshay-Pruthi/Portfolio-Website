@@ -24,19 +24,23 @@
         "title": "ReactJS"
     },
     "6": {
-        "imgLink": "assets/Skills/Java Logo.webp",
-        "title": "Java"
+        "imgLink": "assets/Skills/Solidity.webp",
+        "title": "Solidity"
     },
     "7": {
+        "imgLink": "assets/Skills/web3js.webp",
+        "title": "web3JS"
+    },
+    "8": {
+        "imgLink": "assets/Skills/truffle.webp",
+        "title": "truffle"
+    },
+    "9": {
         "imgLink": "assets/Skills/Git logo.webp",
         "title": "Git"
     },
-    "8": {
+    "10": {
         "imgLink": "assets/Skills/Github Logo.webp",
         "title": "GitHub"
-    },
-    "9": {
-        "imgLink": "assets/Skills/Solidity.webp",
-        "title": "Solidity"
     }
 }
