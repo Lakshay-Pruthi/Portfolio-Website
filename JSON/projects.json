@@ -1,30 +1,31 @@
 {
     "0": {
-        "title": "KEY MINER",
-        "description": "A Blockchian based password manager dapp made with the powers of <span style='font-weight: bolder; color:yellow;'> ReactJS and Hardhat</span> to deliver a secure  platform for managing passwords.",
-        "hostedLink": "https://lakshay-pruthi.github.io/KEY-MINER/",
-        "imgLink": "./assets/Projects/P7.webp",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/KEY-MINER"
+        "title": "ArtNFT",
+        "description": "An <span class='special'>AI</span> based<span class='special'> NFT generating and minting dapp</span> made using latest Web3 technologies such as<span class='special'> IPFS, web3JS, truffle</span> and many more.",
+        "hostedLink": "https://lakshay-pruthi.github.io/ArtNFT_Live/",
+        "imgLink": "./assets/Projects/P1.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/ArtNFT"
     },
     "1": {
-        "title": "CryptoTree",
-        "description": "A crowdfunding decentralized app made using <span style='font-weight: bolder; color:yellow;'> React JS </span> is a platform built on  <span style='font-weight: bolder; color:yellow;'>Sepolia</span> blockchain technology that helps collect funds for the plantation of trees and stoping deforestation.",
-        "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree",
-        "imgLink": "./assets/Projects/P4.jpeg",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/CryptoTree"
+        "title": "KEY MINER",
+        "description": "A Blockchian based <span class='special'>password manager dapp</span> made with the powers of <span class='special'> ReactJS and Hardhat</span> to deliver a secure  platform for managing passwords.",
+        "hostedLink": "https://lakshay-pruthi.github.io/KEY-MINER/",
+        "imgLink": "./assets/Projects/P2.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/KEY-MINER"
     },
     "2": {
-        "title": "Sandesha",
-        "description": "This is a blockchain based text messaging app built with <span style='font-weight: bolder; color:yellow;'> React JS, Web3JS, MetamaskAPI, Truffle </span> It allows users to send messages with complete privacy.",
-        "hostedLink": "https://lakshay-pruthi.github.io/Sandesha/",
-        "imgLink": "./assets/Projects/P5.webp",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/Sandesha"
+        "title": "CryptoTree",
+        "description": "A <span class='special'>crowdfunding dapp</span> made using <span class='special'> React JS </span> is a platform built on  <span class='special'>Sepolia</span> blockchain technology that helps collect funds for the plantation of trees and stoping deforestation.",
+        "hostedLink": "https://lakshay-pruthi.github.io/CryptoTree",
+        "imgLink": "./assets/Projects/P3.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/CryptoTree"
     },
     "3": {
-        "title": "ArtNFT",
-        "description": "An AI based NFT generating and minting dapp made using latest Web3 technologies such as<span style='font-weight: bolder; color:yellow;'> IPFS, web3JS, truffle</span> and many more.",
-        "hostedLink": "https://lakshay-pruthi.github.io/ArtNFT_Live/",
+        "title": "Sandesha",
+        "description": "This is a blockchain based <span class='special'>text messaging dapp</span> built with <span class='special'> React JS, Web3JS, MetamaskAPI, Truffle </span> It allows users to send messages with complete privacy.",
+        "hostedLink": "https://lakshay-pruthi.github.io/Sandesha/",
         "imgLink": "./assets/Projects/P4.webp",
-        "githubLink" : "https://github.com/Lakshay-Pruthi/ArtNFT"
+        "githubLink" : "https://github.com/Lakshay-Pruthi/Sandesha"
     }
+   
 }
