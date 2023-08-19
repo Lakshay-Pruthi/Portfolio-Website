@@ -3,7 +3,7 @@
     height: 250px;
 }
 
-#projects {
+.projects {
     flex-direction: column;
     align-items: center;
 }

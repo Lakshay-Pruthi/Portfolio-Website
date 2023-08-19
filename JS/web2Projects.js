@@ -1,12 +1,12 @@
-let projects = document.getElementById("projects");
+let web2Projects = document.getElementById("web2Projects");
 
-let projectData = fetch("JSON/projects.json")
+let projectData2 = fetch("JSON/web2Projects.json")
   .then((val) => {
     return val.json();
   })
   .then((values) => {
     for (elem in values) {
-      projects.innerHTML += `<div class="project-card">
+      web2Projects.innerHTML += `<div class="project-card">
                         <a href="${values[elem].hostedLink}" target="_blank">
                         <img class="project-img" src="${values[elem].imgLink}" alt="">
                         <div>

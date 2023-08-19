@@ -1,0 +1,16 @@
+{
+    "0": {
+        "title": "ClassyCasa",
+        "description": "ClassyCasa is an innovative online platform designed to streamline the process of renting furniture.It is made using latest <span class='special'>MERN</span> tech stack.",
+        "hostedLink": "https://calm-lime-brown-bear-robe.cyclic.app/",
+        "imgLink": "./assets/web2Projects/ClassyCasa.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/ClassyCasa"
+    },
+    "1": {
+        "title": "CadenceWave",
+        "description": "An online music streaming platform designed to cater to music enthusiasts' diverse tastes and moods. It is made using <span class='special'>ReactJS and Spotify API</span>.",
+        "hostedLink": "https://lakshay-pruthi.github.io/CadenceWave/",
+        "imgLink": "./assets/web2Projects/Cadencewave.webp",
+        "githubLink" : "https://github.com/Lakshay-Pruthi/CadenceWave"
+    }
+}
