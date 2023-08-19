@@ -8,7 +8,7 @@
     },
     "1": {
         "title": "CadenceWave",
-        "description": "An online music streaming platform designed to cater to music enthusiasts' diverse tastes and moods. It is made using <span class='special'>ReactJS and Spotify API</span>.",
+        "description": "It is An online music streaming platform designed to cater to music enthusiasts' diverse tastes and moods. It is made using <span class='special'>ReactJS and Spotify API</span>.",
         "hostedLink": "https://lakshay-pruthi.github.io/CadenceWave/",
         "imgLink": "./assets/web2Projects/Cadencewave.webp",
         "githubLink" : "https://github.com/Lakshay-Pruthi/CadenceWave"
