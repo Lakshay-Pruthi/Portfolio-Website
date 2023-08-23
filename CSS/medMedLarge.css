@@ -1,18 +1,7 @@
-.container {
-    flex-direction: column;
-}
-
-.OSContributions ul {
-    flex-direction: column;
-}
-
-.navbar {
-    display: none;
-}
-
 #web2Projects {
     display: flex;
     flex-direction: column-reverse;
+    align-items: center;
 }
 
 .mern-project-card {

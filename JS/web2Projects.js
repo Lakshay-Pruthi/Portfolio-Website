@@ -6,15 +6,15 @@ let projectData2 = fetch("JSON/web2Projects.json")
   })
   .then((values) => {
     for (elem in values) {
-      web2Projects.innerHTML += `<div class="project-card">
-                        <a href="${values[elem].hostedLink}" target="_blank">
-                        <img class="project-img" src="${values[elem].imgLink}" alt="">
+      web2Projects.innerHTML += `<div class="mern-project-card">
                         <div>
-                            <h1>${values[elem].title}</h1>
-                            <p>${values[elem].description}</p>
+                        <img src="${values[elem].imgLink}" alt="">
                         </div>
-                        </a>
-                        <div class="liveGit">
+                        <div class='MERNPara'>
+                            <h1>${values[elem].title}</h1>
+                            <div  >
+                            <p>${values[elem].description}</p>
+                            <div class="MERNliveGit">
                         <a class='projectGithubLink' href="${values[elem].hostedLink}" target="_blank">
                          <ion-icon name="eye"></ion-icon>
                          </a>
@@ -22,6 +22,10 @@ let projectData2 = fetch("JSON/web2Projects.json")
                         <ion-icon name="logo-github"></ion-icon>
                          </a>
                          </div>
+                            
+                         </div>
+                        </div>
+                        
                          
                     </div>`;
     }

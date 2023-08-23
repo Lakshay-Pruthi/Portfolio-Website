@@ -401,3 +401,42 @@ footer {
     font-weight: bolder;
     color: yellow;
 }
+
+.mern-project-card {
+    width: 45%;
+    height: 200px;
+    display: flex;
+    overflow: hidden;
+    color: white;
+    font-family: 'Raleway Dots', cursive;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    border: 2px solid white;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+
+.mern-project-card img {
+    width: 350px;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    margin-right: 10px;
+}
+
+.MERNPara {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+
+.MERNliveGit {
+    border-top: 2px dotted white;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
