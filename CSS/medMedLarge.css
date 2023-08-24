@@ -8,7 +8,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    width: 320px;
+    width: 270px;
     height: 450px;
     justify-content: space-between;
     align-items: center;
@@ -17,7 +17,7 @@
 }
 
 .mern-project-card img {
-    width: 320px;
+    width: 280px;
     margin: 0;
 }
 

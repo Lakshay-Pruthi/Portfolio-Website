@@ -258,6 +258,7 @@ ion-icon {
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 14px;
+    padding: 10px;
 
 }
 
@@ -404,6 +405,7 @@ footer {
 
 .mern-project-card {
     width: 45%;
+    max-width: 900px;
     height: 200px;
     display: flex;
     overflow: hidden;
