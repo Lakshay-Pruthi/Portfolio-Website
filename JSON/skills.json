@@ -1,54 +1,72 @@
 {
-    "0": {
-        "imgLink": "assets/Skills/React.webp",
-        "title": "ReactJS"
-    },
-    "1": {
-        "imgLink": "assets/Skills/redux.webp",
-        "title": "Redux"
-    },
-    "2": {
-        "imgLink": "assets/Skills/nodejs.webp",
-        "title": "Node.js"
-    },
-    "3": {
-        "imgLink": "assets/Skills/express.webp",
-        "title": "Express.js"
-    },
-    "4": {
-        "imgLink": "assets/Skills/mongo.webp",
-        "title": "MongoDB"
-    },
-    "5": {
-        "imgLink": "assets/Skills/JS Logo.webp",
-        "title": "JavaScript"
-    },
-    "6": {
-        "imgLink": "assets/Skills/Solidity.webp",
-        "title": "Solidity"
-    },
-    "7": {
-        "imgLink": "assets/Skills/web3js.webp",
-        "title": "web3JS"
-    },
-    "8": {
-        "imgLink": "assets/Skills/truffle.webp",
-        "title": "truffle"
-    },
-    "9": {
-        "imgLink": "assets/Skills/Git logo.webp",
-        "title": "Git"
-    },
-    "10": {
-        "imgLink": "assets/Skills/Github Logo.webp",
-        "title": "GitHub"
-    },
-    "11": {
-        "imgLink" : "assets/Skills/Tailwind logo.webp",
-        "title" : "Tailwind CSS"
-    },
-    "12" : {
-        "imgLink" : "assets/Skills/Figma.webp",
-        "title" : "Figma"
-    }
+    "Skills": [
+        {
+            "imgLink": "assets/Skills/html.png",
+            "title": "HTML5"
+        },
+        {
+            "imgLink": "assets/Skills/css.png",
+            "title": "CSS3"
+        },
+        {
+            "imgLink": "assets/Skills/Tailwind.webp",
+            "title": "Tailwind"
+        },
+        {
+            "imgLink": "assets/Skills/Figma.webp",
+            "title": "Figma"
+        },
+        {
+            "imgLink": "assets/Skills/JS.webp",
+            "title": "JavaScript"
+        },
+        {
+            "imgLink": "assets/Skills/React.webp",
+            "title": "ReactJS"
+        },
+        {
+            "imgLink": "assets/Skills/redux.webp",
+            "title": "Redux"
+        },
+        {
+            "imgLink": "assets/Skills/nodejs.webp",
+            "title": "Node.js"
+        },
+        {
+            "imgLink": "assets/Skills/express.webp",
+            "title": "Express.js"
+        },
+        {
+            "imgLink": "assets/Skills/mongo.webp",
+            "title": "MongoDB"
+        },
+        {
+            "imgLink": "assets/Skills/java.png",
+            "title": "Java"
+        },
+        {
+            "imgLink": "assets/Skills/Solidity.webp",
+            "title": "Solidity"
+        },
+        {
+            "imgLink": "assets/Skills/web3js.webp",
+            "title": "web3JS"
+        },
+        {
+            "imgLink": "assets/Skills/truffle.webp",
+            "title": "Truffle"
+        },
+        {
+            "imgLink": "assets/Skills/C.png",
+            "title": "C"
+        },
+        {
+            "imgLink": "assets/Skills/Git.webp",
+            "title": "Git"
+        },
+        {
+            "imgLink": "assets/Skills/Github.webp",
+            "title": "GitHub"
+        }
+    ]
 }

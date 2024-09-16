@@ -1,10 +1,15 @@
-let skills = document.getElementById('skills')
+let skills = document.getElementById("skills");
 let skillsData = fetch("JSON/skills.json")
-.then((val)=>{
-    return val.json()
-})
-.then((values)=>{
-    for(elem in values){
-        skills.innerHTML += `<li class="skillIcons"><img src="${values[elem].imgLink}" alt="">${values[elem].title}</li>`
+  .then((val) => {
+    return val.json();
+  })
+  .then((data) => {
+    let sData = data.Skills;
+    console.log(sData);
+
+    for (s in sData) {
+      console.log(sData[s].imgLink);
+
+      skills.innerHTML += `<li class="skillIcons"><img src=${sData[s].imgLink} alt="">${sData[s].title}</li>`;
     }
-})
+  });
