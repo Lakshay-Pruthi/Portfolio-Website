@@ -13,6 +13,10 @@
             "title": "Tailwind"
         },
         {
+            "imgLink": "assets/Skills/bootstrap.png",
+            "title": "Bootstrap"
+        },
+        {
             "imgLink": "assets/Skills/Figma.webp",
             "title": "Figma"
         },
